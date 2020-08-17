@@ -1,0 +1,2 @@
+This is where the actual links are scraped. Enter the Keyword which you want to be researched. For example, keyword = "Aamir Khan" will provide all the articles related to Aamir Khan from the archives.
+We can also choose the period of time over which articles are desired however it doesn't have that feature yet which would be added in the next commits.
